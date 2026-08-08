@@ -68,17 +68,6 @@ pip install -r requirements.txt
 - Built and deployed on **Databricks Apps**
 - Uses Databricks-hosted AI models
 
-## 📸 Screenshots
-
-### 🍽️ Recipe Generation
-![Recipe]()
-
-### 🥬 Fridge Analysis
-![Fridge]()
-
-### 🔍 Output Result
-![Output]()
-
 ## 🎯 Project Background
 
 Developed during a **6-month AI internship (IgnAite Technologies)**  
