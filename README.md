@@ -87,6 +87,7 @@ Focused on **GenAI, LLMs, and real-world deployment**
 AI/ML Engineer  
 
 🔗 LinkedIn:  https://www.linkedin.com/in/riya-yadav31/
+
 🔗 GitHub: https://github.com/riya-yadav31
 
 ## ⭐ If you like this project, give it a star!
